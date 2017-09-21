@@ -1,1 +1,2 @@
 dit is bestand kris2.txt
+dit is een nieuwe regel
